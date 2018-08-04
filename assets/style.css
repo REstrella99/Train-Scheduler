@@ -1,0 +1,26 @@
+.panel-primary>.panel-heading {
+    color: #fff;
+    background-color: green;
+    border-color: green;
+}
+.text-center{
+    font-family: 'Prata', serif;
+    font-weight:bold;
+    
+}
+.table{
+
+    font-family: 'Prata', serif;
+
+}
+body {
+    background-image: url(https://images5.alphacoders.com/339/thumb-1920-339366.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.jumbotron{
+    background-color:green;
+}
+h1{
+    color:white;
+}
