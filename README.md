@@ -1,2 +1,2 @@
-# Train-scheduler
-Train-Scheduler(Basic)
+# Train-Scheduler
+https://restrella99.github.io/Train-scheduler/
